@@ -1,5 +1,7 @@
-- 👋 Hi, I’m @ferranminero
+- 👋 Hi, I’m Ferrán Minero
 - 👀 I’m interested in CODING and ART
 - 🌱 I’m currently learning VUE.JS
-- 💞️ I’m looking to collaborate on VIDEOGAMES
-- 📫 Reach me out at ferran.minero@gmail.com
+- 💞️ I’m looking to collaborate on VIDEOGAMES and WEB APPS
+- 📫 Reach me out at ferranminero@gmail.com
+
+website: https://ferranminero.github.io
